@@ -1,6 +1,7 @@
 package 'vim-enhanced'
 package 'nano'
 package 'emacs'
+package 'telnet'
 
 package 'git' do
   action :install;
